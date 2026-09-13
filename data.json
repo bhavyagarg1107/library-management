@@ -1,0 +1,20 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Introduction to Algorithms",
+            "author": "gvgv",
+            "quantity": 4,
+            "available": 4
+        }
+    ],
+    "students": [
+        {
+            "id": 1,
+            "name": "Bhavya Garg",
+            "roll": "25",
+            "course": "b.tech"
+        }
+    ],
+    "issued": []
+}
